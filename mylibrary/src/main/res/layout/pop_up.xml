@@ -62,6 +62,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="تایید"
+        android:fontFamily="@font/iranb"
         android:textColor="#000"
         app:layout_constraintBottom_toBottomOf="@+id/view2"
         app:layout_constraintEnd_toEndOf="@+id/imageView"
@@ -77,6 +78,7 @@
         android:text="اینترنت شما خاموش است
 لطفا برای استفا از اپلیکیشن
 اینترنت خود را روشن کنید "
+        android:fontFamily="@font/iranb"
         android:textColor="#333333"
         app:layout_constraintEnd_toEndOf="@+id/view2"
         app:layout_constraintStart_toStartOf="@+id/view2"
